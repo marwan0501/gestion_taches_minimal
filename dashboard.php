@@ -11,7 +11,7 @@ $taches = $stmt->fetchAll();
 <html>
 <head>
     <title>Mes tâches</title>
-    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
 <h2>Mes Tâches</h2>
